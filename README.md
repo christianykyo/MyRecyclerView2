@@ -20,19 +20,6 @@ Kumpulan data yang dimiliki dan ingin ditampilkan. Bisa berupa array, list maupu
 
 ini yang spesial. Kita bisa pasang animasi untuk tiap item di dalamnya. Contoh animasi yang umum seperti penambahan (add) dan penghapusan (removal) item. Kita akan mempelajari hal ini pada materi terpisah.
 
-#### Langkah-langkah mengimplementasikan RecyclerView :
-
-Tambahkan dependencies komponen recyclerview pada file build.gradle level modul.
-
-Tambahkan obyek RecyclerView di berkas layout xml dari activity / fragment.
-Definisikan model kelas (POJO) yang akan digunakan sebagai data source.
-
-Buat berkas layout xml untuk baris item di RecyclerView.
-
-Buat sebuah kelas adapter yang inherit ke RecyclerView.Adapter dan ViewHolder untuk menampilkan tiap elemen data.
-
-Definisikan obyek RecyclerView berikut dengan bentuk yang diinginkan (bisa dalam bentuk list, grid, atau staggered) dan selanjutnya pasang obyek adapter (binding) agar bisa menampilkan koleksi data ke dalam RecyclerView.
-
 ## Screenshot:
 
 ![Alt Text](https://github.com/christianykyo/MyRecyclerView/blob/master/listview.PNG)
