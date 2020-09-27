@@ -38,3 +38,5 @@ Definisikan obyek RecyclerView berikut dengan bentuk yang diinginkan (bisa dalam
 ![Alt Text](https://github.com/christianykyo/MyRecyclerView/blob/master/listview.PNG)
 
 ![Alt Text](https://github.com/christianykyo/MyRecyclerView/blob/master/gridview.PNG)
+
+![Alt Text](https://github.com/christianykyo/MyRecyclerView2/blob/master/cardview.PNG)
